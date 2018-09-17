@@ -1,0 +1,11 @@
+# Created 2018-09-17 Mon 12:32
+* Bill of Materials
+#+RESULTS: pcb-parts
+| Item | Reference(s) | Quantity | PartNumber             | Vendor  | Description                               |
+|------+--------------+----------+------------------------+---------+-------------------------------------------|
+|    1 | C1 C3 C5     |        3 | 445-4536-1-ND          | digikey | CAP CER 10UF 50V 10% X7S 1210             |
+|    2 | C2 C4 C6     |        3 | 399-13229-1-ND         | digikey | CAP CER 0.1UF 50V 10% X7R 1210            |
+|    3 | D1           |        1 | AD5754RBREZ-REEL7CT-ND | digikey | IC DAC 16BIT DSP/SRL 24TSSOP              |
+|    4 | MDB1         |        2 | S1011E-16-ND           | digikey | 16 Position Header Through Hole Male Pins |
+|    5 | P1 P2        |        2 | ACX1655-ND             | digikey | CONN BNC JACK R/A 75 OHM PCB              |
+|    6 | REG1         |        1 | 945-1579-5-ND          | digikey | DC DC CONVERTER +/-12V 1W                 |

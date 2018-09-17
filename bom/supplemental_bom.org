@@ -1,4 +1,5 @@
 * Supplemental Bill of Materials
 #+RESULTS: supplemental-parts
-| Item | Quantity | PartNumber | Vendor | Description |
-|------+----------+------------+--------+-------------|
+| Item | Quantity | PartNumber  | Vendor  | Description                       |
+|------+----------+-------------+---------+-----------------------------------|
+|    1 |        4 | 290-1026-ND | digikey | 	CBL ASSY BNC PLUG-PLUG RG59 6FT |
