@@ -9,7 +9,7 @@
 
 * Description
 
-  This...
+  This board controls four 16-bit unipolar/bipolar voltage DAC output channels.
 
 * Assembly Instructions
 
