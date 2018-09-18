@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/polidorop/git/kicad/dac_controller_3x2/dac_controller_3x2.sch)
-    (date "Mon 17 Sep 2018 11:24:53 AM EDT")
+    (date "Tue 18 Sep 2018 10:14:15 AM EDT")
     (tool "Eeschema 6.0.0-rc1-unknown-d4e4359~66~ubuntu18.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -342,7 +342,7 @@
     (net (code 20) (name /SCK)
       (node (ref MDB1) (pin 13))
       (node (ref D1) (pin 8)))
-    (net (code 21) (name /CS)
+    (net (code 21) (name /SS)
       (node (ref D1) (pin 7))
       (node (ref MDB1) (pin 10)))
     (net (code 22) (name "Net-(MDB1-Pad9)")
