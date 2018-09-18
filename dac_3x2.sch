@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:dac_controller_3x2-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -97,7 +98,7 @@ MISO
 Text HLabel 5450 3100 0    60   Input ~ 0
 SCK
 Text HLabel 5450 3200 0    60   Input ~ 0
-~SS
+~CS
 NoConn ~ 6500 2700
 Wire Wire Line
 	6200 3800 6200 3850

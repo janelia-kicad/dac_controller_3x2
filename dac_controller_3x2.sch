@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:dac_controller_3x2-cache
 EELAYER 26 0
 EELAYER END
 $Descr A 11000 8500
@@ -152,16 +153,16 @@ F3 "~CLR" I L 5950 1550 60
 F4 "MOSI" I L 5950 1650 60 
 F5 "MISO" T L 5950 1750 60 
 F6 "SCK" I L 5950 1850 60 
-F7 "~SS" I L 5950 1950 60 
+F7 "~CS" I L 5950 1950 60 
 $EndSheet
 Wire Wire Line
 	1400 2000 1350 2000
 Text Label 1350 2000 2    60   ~ 0
-SS
+CS
 Wire Wire Line
 	5950 1950 5900 1950
 Text Label 5900 1950 2    60   ~ 0
-SS
+CS
 Wire Wire Line
 	3900 2200 3950 2200
 Text Label 3950 2200 0    60   ~ 0
